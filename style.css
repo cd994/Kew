@@ -109,18 +109,18 @@ nav li a:active {
 .hero-overlay {
 	position: absolute;
 	width: 940px;
-	top: 200px;
-	height: 200px;
+	top: 202px;
+	height: 550px;
 	z-index: 100px;
 	background-repeat: no-repeat;
 	background-position: center;
-	color: #cdd37b;
+	color: #cc9a10;
 }
 
 .herophoto {
 	width: 100%;
 	height: 403px;
-	background-image: url("../images/palmhouse\ copy.jpg");
+	background-image: url("../images/palmhouse.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
